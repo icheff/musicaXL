@@ -1,5 +1,4 @@
-<section id="UplvoSm" data-type="section">
-    <style id="nlmaQZV" type="text/css">
+<section id="UplvoSm" data-type="section"><style id="nlmaQZV" type="text/css">
       
     @media screen and (min-width:0px){#UplvoSm{width:100vw;height:100vh;position:relative}}
     @media screen and (min-width:0px){#BsCgSbU{width:100vw;height:100vh;position:relative}}
@@ -14,40 +13,4 @@
     @media screen and (min-width:0px){#wCnOdht{font-size: clamp(2.5rem, 4.5vw, 7.5rem); font-weight: 200; color: black; background: #FFEB3B; padding: 0px 0; line-height: 1.45; display: inline;}}
     
     
-    </style>
-    
-    <div id="BsCgSbU" data-type="container">
-      <div id="OiYOYwa" data-type="backgrounds">
-        
-        <div id="dMPQpdE" data-type="bg-color" class="div-hidden">
-          <div id="DlFkRPg" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div>
-          <div id="OidqXJF" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-          <div id="hbfabjh" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div>
-        </div> <!-- bg-color -->
-  
-        <div id="QvRyjyB" data-type="bg-image" class="div-hidden">
-          <picture id="sqpQeMe">
-            <source srcset="" media="(max-width:640px)">
-            <source srcset="" media="(min-width:641px) and (max-width:1024px)">
-            <img id="TSuhRRP" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy">
-          </picture>
-        </div> <!-- bg-image -->
-  
-        <div id="gTTAidu" data-type="bg-video" class="div-visible">
-          <video id="UjKPHtV" autoplay="" loop="" muted="">
-            <source src="https://github.com/IAMEDIA360/videos/raw/main/1795013481-1.mp4" type="video/mp4">
-          </video>
-        </div> <!-- bg-video -->
-  
-      </div> <!-- backgrounds -->
-  
-      <div id="GvdwzWd" data-type="content">
-        <div id="cZgAeLA">
-          <h2 id="wCnOdht" contenteditable="true">&nbsp;Consectur&nbsp;<br>&nbsp;lorem ipsum&nbsp;<br>&nbsp;adipiscing elit&nbsp;</h2>
-        </div> <!-- div1ID -->
-      </div> <!-- content -->
-    </div> <!-- container -->
-    <button class="toolbar-open" onclick="toolsOpenModal(this)">
-      <img src="../global/file/edit-section.svg">
-    </button>
-  </section>
+    </style><div id="BsCgSbU" data-type="container"><div id="OiYOYwa" data-type="backgrounds"><div id="dMPQpdE" data-type="bg-color" class="div-hidden"><div id="DlFkRPg" data-type="solid-color" class="div-visible" style="background: rgb(235, 235, 235);"></div><div id="OidqXJF" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(235, 235, 235), rgb(235, 235, 235));"></div><div id="hbfabjh" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgb(235, 235, 235), rgb(235, 235, 235));"></div></div><!-- bg-color --><div id="QvRyjyB" data-type="bg-image" class="div-hidden"><picture id="sqpQeMe"><source srcset="" media="(max-width:640px)"><source srcset="" media="(min-width:641px) and (max-width:1024px)"><img id="TSuhRRP" src="https://raw.githubusercontent.com/IAMEDIA360/images/main/empty.svg" data-type="img-bg" loading="lazy"></picture></div><!-- bg-image --><div id="gTTAidu" data-type="bg-video" class="div-visible"><video id="UjKPHtV" autoplay="" loop="" muted=""><source src="https://github.com/IAMEDIA360/videos/raw/main/1795013481-1.mp4" type="video/mp4"></video></div><!-- bg-video --></div><!-- backgrounds --><div id="GvdwzWd" data-type="content"><div id="cZgAeLA"><h2 id="wCnOdht" contenteditable="true">&nbsp;Devenez&nbsp;<br>&nbsp;Expert en IA&nbsp;<br>&nbsp;Generative&nbsp;<br></h2></div><!-- div1ID --></div><!-- content --></div><!-- container --><button class="toolbar-open" onclick="toolsOpenModal(this)"><img src="../global/file/edit-section.svg"></button></section>
